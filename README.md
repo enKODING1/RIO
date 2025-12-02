@@ -1,7 +1,7 @@
 # Ray Tracing in a Weekend
 
 - [x] Output an Image
-- [ ] The vec3 Class
+- [x] The vec3 Class
 - [ ] Rays, a Simple Camera, and Background
 - [ ] Adding a Sphere
 - [ ] Surface Normals and Multiple Obejcts
