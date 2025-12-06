@@ -2,7 +2,7 @@
 
 - [x] Output an Image
 - [x] The vec3 Class
-- [ ] Rays, a Simple Camera, and Background
+- [x] Rays, a Simple Camera, and Background
 - [ ] Adding a Sphere
 - [ ] Surface Normals and Multiple Obejcts
 - [ ] Moving Camera Code Into Its Own Class
