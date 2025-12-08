@@ -2,12 +2,8 @@
 #define HITTABLE_LIST_H
 
 #include "hittable.h"
-
-#include <memory>
+#include "rtweekend.h"
 #include <vector>
-
-using std::make_shared;
-using std::shared_ptr;
 
 class hittable_list : public hittable
 {
